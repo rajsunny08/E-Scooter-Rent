@@ -1,2 +1,5 @@
 # E-Scooter-Rent
-E-Scooter Rent provides quick, affordable, and eco-friendly electric scooter rentals for easy city travel.
+Web application for renting electronic scooters. I'm making this app using Java Spring Boot.
+Application progress:
+Step 1: I made the final ER diagram
+Step 2: Mapping the ER-diagram from Step1
